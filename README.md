@@ -1,3 +1,3 @@
 # udacity-deep-learning
 
-Assignments for Udacity Deep Learning course using TensorFlow.
+Udacity Deep Learning course assignments and projects.
